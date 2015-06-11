@@ -22,7 +22,7 @@ You are able to easily:
 
 ### Initial setup
 
-1. Open ``common.sh`` file and define value for all variables in it
+1. Open ``common.conf`` file and define value for all variables in it
 1. launch ``initAzure.sh`` command
 1. when script is completed your Elasticsearch server is up and running and accessible from internet on ports 9200 and 5601 (Kibana)
 
